@@ -1,4 +1,4 @@
-# 까먹지마 <img src="https://github.com/APPSCHOOL2-Android/FinalProject-Dont-Forget/assets/86800087/fed47075-cd2f-4d5a-bb12-4ad295310d8a" align=left width=100>
+# [까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget) <img src="https://github.com/APPSCHOOL2-Android/FinalProject-Dont-Forget/assets/86800087/fed47075-cd2f-4d5a-bb12-4ad295310d8a" align=left width=100>
 
 > ✔️ TODO 일정 관리 서비스 
 
